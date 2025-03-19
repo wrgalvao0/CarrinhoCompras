@@ -24,7 +24,7 @@ Design otimizado para performance e acessibilidade.
 
 📌 Como Visualizar o Projeto
 
-O projeto está disponível online e pode ser acessado pelo seguinte link: 
+O projeto está disponível online e pode ser acessado pelo seguinte link: https://wrgalvao0.github.io/CarrinhoCompras/
 
 📩 Contato
 
